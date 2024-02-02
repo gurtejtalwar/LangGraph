@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain_openai
+langsmith
+langchainhub
+duckduckgo-search
+beautifulsoup4
+gradio
+bson
